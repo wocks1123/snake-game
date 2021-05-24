@@ -9,5 +9,6 @@ module.exports = {
       alias: require('./aliases.config').webpack,
     },
   },
-  outputDir: "docs"
+  outputDir: "docs",
+  publicPath: "/snake-game/"
 }
