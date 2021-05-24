@@ -10,5 +10,5 @@ module.exports = {
     },
   },
   outputDir: "docs",
-  publicPath: "snake-game"
+  publicPath: "/snake-game/"
 }
